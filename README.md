@@ -5,8 +5,3 @@ This LSQ Engineering problem is meant as a take home assignment to assess your s
 ## Problem:
 
 You have a list of invoices with an amount and identified by their invoice number. Your accountant has sent you file with their version of the same list. You need to output what differences exist between these two lists so that you and your accountant can resolve any discrepancies.
-
-## Run the code
-Compile the code using `javac app/Main.java` and run the code using `java app/Main`. 
-
-Your solution should be printed to the console (using `System.out.println()`).
